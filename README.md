@@ -39,3 +39,5 @@ This course is the second part of the Application Development series. In this co
 ### Assignments
 
 - **Assignment 1:** JavaScript Essentials – Basic understanding of JavaScript syntax and functionality
+- **Assignment 2:** Ingredient Substitution Finder (JavaScript, Fetch API)
+- **Assignment 3:** Greeting App (Django, JavaScript, Fetch API)
